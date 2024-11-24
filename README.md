@@ -201,11 +201,11 @@ XML               2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:lang-time-->
 
 
-<!--_____START_SECTION:commit-dayweek-->
-<!--_____END_SECTION:commit-dayweek-->
+<!--START_SECTION:commit-dayweek-->
+<!--END_SECTION:commit-dayweek-->
 
-<!--_____START_SECTION:editor-time-->
-<!--_____END_SECTION:editor-time-->
+<!--START_SECTION:editor-time-->
+<!--END_SECTION:editor-time-->
 
 
 <!-- Leetcode & Streak  -->
