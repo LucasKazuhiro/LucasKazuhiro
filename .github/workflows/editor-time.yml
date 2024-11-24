@@ -1,9 +1,9 @@
 name: Generate time per editor
 
 on:
-  schedule:
+  # schedule:
     # runs at 4:40 AM BRT (São Paulo Time)
-    - cron: "40 7 * * *"
+    # - cron: "40 7 * * *"
   workflow_dispatch:
 jobs:
   update-readme:
