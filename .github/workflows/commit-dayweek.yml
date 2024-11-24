@@ -1,9 +1,9 @@
 name: Generate commit per dayweek
 
 on:
-  schedule:
+  # schedule:
     # runs at 4:20 AM BRT (São Paulo Time)
-    - cron: "20 7 * * *"
+    # - cron: "20 7 * * *"
   workflow_dispatch:
 jobs:
   update-readme:
