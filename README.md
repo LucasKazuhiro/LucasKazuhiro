@@ -181,7 +181,7 @@
 <!--END_SECTION:commit-day-moment-->
 
 
-<!--START_SECTION:lang-time-->
+<!--START_SECTION:langTime-->
 
 ```rust
 From: 27 October 2024 - To: 20 November 2024
@@ -198,7 +198,7 @@ CSS               4 hrs 13 mins   ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 XML               2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.06 %
 ```
 
-<!--END_SECTION:lang-time-->
+<!--END_SECTION:langTime-->
 
 
 <!--START_SECTION:commit-dayweek-->
