@@ -6,6 +6,12 @@
       > AnOrdinaryUsername  : https://github.com/AnOrdinaryUsername/AnOrdinaryUsername
       > ValentineFernandes  : https://github.com/ValentineFernandes/ValentineFernandes
       > thesanjithkumar     : https://github.com/thesanjithkumar/thesanjithkumar
+
+
+    GitHub Workflows used:
+      > athul               : https://github.com/athul/waka-readme
+      > thanhhaudev         : https://github.com/thanhhaudev/github-stats
+      > rahul-jha98         : https://github.com/rahul-jha98/github-stats-transparent
 -->
 
 
