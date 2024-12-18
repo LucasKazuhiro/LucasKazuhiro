@@ -25,6 +25,7 @@ jobs:
           SECTION_NAME: commit-day-moment
           WAKATIME_RANGE: all_time
           TIME_ZONE: America/Sao_Paulo
+          SIMPLIFY_COMMIT_TIMES_TITLE: "true"
           ONLY_MAIN_BRANCH: "true" # only fetch data from the main branch
           EXCLUDE_FORK_REPOS: "true"
           SHOW_LAST_UPDATE: "false" # show last update time
