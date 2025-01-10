@@ -113,9 +113,11 @@
     <!-- Frameworks & Libs icons -->
     <td>
       <a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular" height="45" alt="angularjs logo"/></a><img width="6px" height="1px">
+      <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwind logo"/></a><img width="6px" height="1px">
       <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"/></a><img width="6px" height="1px">
       <a href="https://pandas.pydata.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="45" alt="pandas logo"/></a><img width="6px" height="1px">
       <a href="https://plotly.com/"><img src="https://avatars.githubusercontent.com/u/5997976?s=280&v=4" height="45" alt="plotly logo"/></a>
+      <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" height="45" alt="flask logo"/></a><img width="6px" height="1px">
     </td>
   </tr>
 
@@ -140,8 +142,9 @@
       <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"/></a><img width="6px" height="1px">
       <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"/></a><img width="6px" height="1px">
       <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"/></a><img width="6px" height="1px">
+      <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo"/></a><img width="6px" height="1px">
       <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"/></a><img width="6px" height="1px">
-      <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"/></a>
+      <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"/></a><img width="6px" height="1px">
     </td>
   </tr>
 </table>
