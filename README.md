@@ -308,7 +308,7 @@ JavaScript         5 hrs 10 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/LucasKazuhiro/wine-store-dsgn">
+      <a href="https://www.figma.com/proto/JKhN9qtK5zfoH0lPQIZcJ6/VinhoEcommerce">
         <img src="./assets/projects-previews/wine-store-dsgn-preview.png" width="100%" height="100%">
       </a>
       <a href="https://github.com/LucasKazuhiro/wine-store-dsgn">
@@ -316,7 +316,7 @@ JavaScript         5 hrs 10 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/LucasKazuhiro/anime-blog-review-dsgn">
+      <a href="https://www.figma.com/proto/9xlVkFh4w7eP8Z3GWelY2q/Anime-Blog-Review?node-id=1-2&t=XBaEhW2ueDgbF9l7-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1">
         <img src="./assets/projects-previews/anime-blog-review-dsgn-preview.png" width="100%" height="100%">
       </a>
       <a href="https://github.com/LucasKazuhiro/anime-blog-review-dsgn">
