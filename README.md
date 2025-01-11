@@ -14,9 +14,6 @@
       > rahul-jha98         : https://github.com/rahul-jha98/github-stats-transparent
 -->
 
-
-
-
 <!-- Badges -->
 <div align="left">
   <img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin" alt="linkedin icon and">
@@ -26,14 +23,12 @@
   <img src="https://wakatime.com/badge/user/22fc4045-0416-43b2-9647-dea8d4e91a54.svg?style=for-the-badge" alt="wakatime stats">
 </div>
 
-
 <!-- ASCII ART -->
 <a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
   <picture>
     <img alt="ascii-profile" src="assets/header-ascii-art.svg" width="100%">
   </picture>
 </a>
-
 
 <!--  Music  ⸜(｡˃ ᵕ ˂ )⸝♡  -->
 <div>
@@ -47,13 +42,7 @@
   </details>
 </div>
 
-
-
-
 <br><br>
-
-
-
 
 <!-- Section Title -->
 <div id="toc">
@@ -66,10 +55,8 @@
   </ul>
 </div>
 
-
 <!-- Profile stats with TV & Dithering effect -->
 <!-- <img src="https://pixel-profile.vercel.app/api/github-stats?username=LucasKazuhiro&screen_effect=true&dithering=true"> -->
-
 
 <!-- Table Icons -->
 <table>
@@ -149,7 +136,6 @@
   </tr>
 </table>
 
-
 <!-- Most used languages & Image -->
 <div align="center">
   <img src="./assets/lucaskazuhiro-languages-stats.svg" width="49%"  alt="languages stats" align="center" />
@@ -157,13 +143,7 @@
   <p></p>
 <div>
 
-
-
-
 <br><br>
-
-
-
 
 <!-- Section Title -->
 <div id="toc">
@@ -176,10 +156,10 @@
   </ul>
 </div>
 
-
 <div align="center">
 
 <!--START_SECTION:commit-day-moment-->
+
 **🕒 I'm An Early 🐤**
 
 ```text
@@ -189,9 +169,7 @@
 🌙 Night                  387 commits         ██████░░░░░░░░░░░░░░░░░░░   23.87%
 ```
 
-
 <!--END_SECTION:commit-day-moment-->
-
 
 <!--START_SECTION:langTime-->
 
@@ -211,13 +189,11 @@ JavaScript         5 hrs 10 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:langTime-->
 
-
 <!--START_SECTION:commit-dayweek-->
 <!--END_SECTION:commit-dayweek-->
 
 <!--START_SECTION:editor-time-->
 <!--END_SECTION:editor-time-->
-
 
 <!-- Leetcode & Streak  -->
 <div align="center">
@@ -227,12 +203,7 @@ JavaScript         5 hrs 10 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 </div>
 
-
-
-
 <br><br><br>
-
-
 
 <!-- Section title -->
 <div id="toc">
@@ -245,16 +216,13 @@ JavaScript         5 hrs 10 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   </ul>
 </div>
 
-
 <!-- Projects warning text -->
 <div align="center">
 <p>
-    <b><i>Click on the image</i></b> to access the project site (if available). GitHub's hosting service<br>
-    works with static websites, so various features <b><i>will not be present</i></b>, especially backend parts.<br>
-    To access the <b><i>complete project</i></b>, click on the card (below the image) and <b><i>clone the repository</i></b>.
+    <b><i>Click on the image</i></b> to access the project site (if available). To access the<br>
+    <b><i>complete project</i></b>, click on the card (below the image) and <b><i>clone the repository</i></b>.
 </p>
 </div>
-
 
 <!-- Projects subtitle (Codes) -->
 <div id="toc">
@@ -268,11 +236,11 @@ JavaScript         5 hrs 10 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <table>
   <tr>
     <td width="50%">
-      <a href="https://lucaskazuhiro.github.io/EarthWise-website-host/">
-        <img src="./assets/projects-previews/EarthWise-website-preview.png" width="100%" height="100%">
+      <a href="https://korosenku.vercel.app">
+        <img src="./assets/projects-previews/anime-blog-review-preview.png" width="100%" height="100%">
       </a>
-      <a href="https://github.com/LucasKazuhiro/EarthWise-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="EarthWise-website"/>
+      <a href="https://github.com/LucasKazuhiro/anime-blog-review">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=anime-blog-review&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="anime-blog-review"/>
       </a>
     </td>
     <td width="50%">
@@ -287,6 +255,22 @@ JavaScript         5 hrs 10 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </table>
 
 <!-- Second row -->
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://lucaskazuhiro.github.io/EarthWise-website-host/">
+        <img src="./assets/projects-previews/EarthWise-website-preview.png" width="100%" height="100%">
+      </a>
+      <a href="https://github.com/LucasKazuhiro/EarthWise-website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="EarthWise-website"/>
+      </a>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
+</table>
+
+<!-- Third row -->
 <table>
   <tr>
     <td width="50%">
@@ -308,9 +292,7 @@ JavaScript         5 hrs 10 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   </tr>
 </table>
 
-
 <br>
-
 
 <!-- Projects subtitle (Design) -->
 <div id="toc">
@@ -342,9 +324,7 @@ JavaScript         5 hrs 10 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   </tr>
 </table>
 
-
 <br>
-
 
 <!-- Projects subtitle (Learnings) -->
 <div id="toc">
@@ -386,13 +366,7 @@ JavaScript         5 hrs 10 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   </tr>
 </table>
 
-
-
-
 <br><br><br><br>
-
-
-
 
 <!-- Section title -->
 <div id="toc">
@@ -405,12 +379,10 @@ JavaScript         5 hrs 10 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   </ul>
 </div>
 
-
 <!-- Gif final page -->
 <a href="https://myanimelist.net/anime/269/Bleach">
   <img src="assets/gif-final-page.gif" width="970" alt="anime gif">
 </a>
-
 
 <!-- some random Gif's quote -->
 <div align="center">
